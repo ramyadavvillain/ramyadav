@@ -1,0 +1,6 @@
+AWS account create
+note pad ++
+putty gen
+putty
+Install GIT
+
